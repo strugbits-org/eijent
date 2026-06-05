@@ -18,8 +18,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # env
-.env
-.env.*
 !.env.example
 .env*.local
 
@@ -27,3 +25,4 @@ yarn-error.log*
 Thumbs.db
 .claude
 legacy
+config.bat
